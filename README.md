@@ -9,7 +9,6 @@ Cette application a été développée pour présenter un jeu de cartes simple o
 - Authentification requise pour accéder à l'application : 
   - Login : player
   - Mot de passe : player
-- Interface utilisateur responsive.
 
 ## Architecture du Projet
 
