@@ -1,0 +1,14 @@
+/Users/Projects/CardGame/src/main/java/com/card/game/beans/CardRequest.java
+/Users/Projects/CardGame/src/main/java/com/card/game/beans/CardResp.java
+/Users/Projects/CardGame/src/main/java/com/card/game/beans/UserCredential.java
+/Users/Projects/CardGame/src/main/java/com/card/game/conf/CardGameAdviceController.java
+/Users/Projects/CardGame/src/main/java/com/card/game/controllers/ApplicationController.java
+/Users/Projects/CardGame/src/main/java/com/card/game/conf/CardGameServiceException.java
+/Users/Projects/CardGame/src/main/java/com/card/game/beans/ApplicationMetadata.java
+/Users/Projects/CardGame/src/main/java/com/card/game/controllers/CradGameController.java
+/Users/Projects/CardGame/src/main/java/com/card/game/beans/Color.java
+/Users/Projects/CardGame/src/main/java/com/card/game/CardGameApplication.java
+/Users/Projects/CardGame/src/main/java/com/card/game/beans/Value.java
+/Users/Projects/CardGame/src/main/java/com/card/game/services/CardGameSetviceImpl.java
+/Users/Projects/CardGame/src/main/java/com/card/game/services/CardGameService.java
+/Users/Projects/CardGame/src/main/java/com/card/game/conf/CardGameWebMvcConfig.java

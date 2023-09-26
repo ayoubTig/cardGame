@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: card-game
+Implementation-Version: 0.0.1
+Implementation-Vendor: Ayoub TIGOUDERN
+Created-By: Maven Integration for Eclipse
+

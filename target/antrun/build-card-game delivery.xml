@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="card-game delivery">
+  <target name="card-game delivery">
+    <echo>profile=${delivery.profile}</echo>
+    <taskdef resource="net/sf/antcontrib/antcontrib.properties" />
+    <if>
+      <available file="${delivery.directory}/card-game" type="dir" />
+      <then>
+        <copy file="/Users/Projects/CardGame/target/card-game-0.0.1.jar" todir="${delivery.directory}/card-game" />
+      </then>
+      <else>
+        <echo>${delivery.directory}/card-game Directory does not exist</echo>
+      </else>
+    </if>
+  </target>
+</project>

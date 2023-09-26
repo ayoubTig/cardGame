@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+	<statusListener class="ch.qos.logback.core.status.NopStatusListener" />
+	<property scope="context" name="application_name" value="card-game-${spring.profiles.active}" />
+	
+	<springProfile name="dev">
+		<include resource="org/springframework/boot/logging/logback/base.xml" />
+		<!-- <logger name="org.springframework" level="DEBUG" />  -->
+		<logger name="com.fasterxml.jackson" level="DEBUG"/>
+		<logger name="com.kit4trying.manager" level="TRACE" />
+	</springProfile>
+	
+	
+
+</configuration>
