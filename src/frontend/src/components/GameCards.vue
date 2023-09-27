@@ -10,11 +10,11 @@
       <div class="text-center my-3" >
 
         <button class="btn btn-round btn-custom col" @click="getHandCards()" :disabled="disabledBtn">
-          <span>Disribuer à nouveaux les cartes <i class="mdi mdi-cards-playing-outline "/> </span>
+          <span>Re-distribuer à nouveau les cartes<i class="mdi mdi-cards-playing-outline "/> </span>
         </button>
         
         <button class="btn btn-round btn-custom col" @click="sortCards()" :disabled="disabledBtn" v-show="!cardsIsSorted">
-          <span>Trier les cartes <i class="mdi mdi-sort-alphabetical-ascending "/> </span>
+          <span>Trier les cartes<i class="mdi mdi-sort-alphabetical-ascending "/> </span>
         </button>
       </div>
 
