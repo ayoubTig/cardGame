@@ -7,8 +7,8 @@ Cette application a été développée pour présenter un jeu de cartes simple o
 - Un joueur peut tirer une main de 10 cartes de manière aléatoire.
 - Les cartes sont classées par couleur et valeur.
 - Authentification requise pour accéder à l'application : 
-  - Login : player
-  - Mot de passe : player
+  - Login : ## player
+  - Mot de passe : ## player
 
 ## Architecture du Projet
 
